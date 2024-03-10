@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Book
+  - TurtlePlayer
+  - LionPlayer
+  - Ground
+  - JumpPlatform
+  - Spike
+  - Door
+  - Rifle
+  - Doctor
+  - BulletPosition
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - rest
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - background
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
